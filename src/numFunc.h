@@ -35,7 +35,7 @@ public:
         }
         return fib;
     }
-   
+
 private:
     T N;
 };
