@@ -10,7 +10,7 @@ int main()
 {
     std::vector<int> y;
     y.push_back(2);
-    y.push_back(3);
+    y.push_back(5);
     vecFunc<int> boo(y);
     boo.vectorPrint();
     std::cout << boo.max() << std::endl;
